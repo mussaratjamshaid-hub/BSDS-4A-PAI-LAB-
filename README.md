@@ -137,6 +137,9 @@ https://github.com/mussaratjamshaid-hub/BSDS-4A-PAI-LAB-/blob/main/AI%20SENTIMEN
 
 ![image alt](https://github.com/mussaratjamshaid-hub/BSDS-4A-PAI-LAB-/blob/1f6f2f37d1be3aa05360eb4a1393cd244e87e143/face%20detection.png)
 
+![image alt](https://github.com/mussaratjamshaid-hub/BSDS-4A-PAI-LAB-/blob/1f6f2f37d1be3aa05360eb4a1393cd244e87e143/image%20analyze.png)
+
+
 
 
 

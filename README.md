@@ -36,27 +36,47 @@ AI-Sentiment-Analyzer/
 │   └── sentiment.py  
 └── README.md  
 
+### 2. Create Virtual Environment
 
-
-## Installation & Run
-
-```bash
-git clone https://github.com/your-username/ai-sentiment-analyzer.git
-cd ai-sentiment-analyzer
 python -m venv venv
-venv\Scripts\activate   # Windows
-# source venv/bin/activate   # Mac/Linux
+
+### 3. Activate Virtual Environment
+
+### Windows:
+
+venv\Scripts\activate
+
+### Mac/Linux:
+
+source venv/bin/activate
+
+### 4. Install Requirements
+
 pip install -r requirements.txt
+
+### Run Project
+
 python app.py
 
-Requirements
+### Then open in browser:
+
+http://127.0.0.1:5000/
+
+### Requirements
+
 flask
+
 textblob
+
 nltk
+
 numpy
+
 opencv-python
 
-### How It Works
+
+
+## How It Works
 
 User enters text → Flask backend receives it → NLP analyzes sentiment → Result is shown on UI.
 

@@ -3,25 +3,25 @@
 
 ### Project Structure
 
-### AI-Sentiment-Analysis/
+AI-Sentiment-Analysis/
 │
-├── app.py
-├── requirements.txt
+├── app.py                # Main Flask application
+├── requirements.txt     # Project dependencies
 │
-├── static/
-│   ├── css/
-│   ├── js/
-│   ├── img/
-│   └── uploads/
+├── static/              # Static files (CSS, JS, Images)
+│   ├── css/             # Stylesheets
+│   ├── js/              # JavaScript files
+│   ├── img/             # Images
+│   └── uploads/         # Uploaded images
 │
-├── templates/
-│   ├── index.html
-│   ├── dashboard.html
-│   ├── text.html
-│   ├── face.html
-│   ├── upload.html
-│   ├── about.html
-│   └── layout.html
+├── templates/           # HTML templates
+│   ├── index.html       # Homepage
+│   ├── dashboard.html   # Dashboard page
+│   ├── text.html        # Text sentiment page
+│   ├── face.html        # Face detection page
+│   ├── upload.html      # Image upload page
+│   ├── about.html       # About page
+│   └── layout.html      # Base layout template
 
 ### 1. Introduction
 The AI Sentiment Analysis System is a web-based application that analyzes human emotions using both text and facial expressions. It combines Natural Language Processing (NLP) and Computer Vision techniques to detect sentiment and emotions.

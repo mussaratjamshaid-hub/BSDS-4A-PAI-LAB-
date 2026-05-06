@@ -1,6 +1,28 @@
 ### AI Sentiment Analysis System
 (Flask + NLP + Face Detection Web Application)
 
+### Project Structure
+
+### AI-Sentiment-Analysis/
+│
+├── app.py
+├── requirements.txt
+│
+├── static/
+│   ├── css/
+│   ├── js/
+│   ├── img/
+│   └── uploads/
+│
+├── templates/
+│   ├── index.html
+│   ├── dashboard.html
+│   ├── text.html
+│   ├── face.html
+│   ├── upload.html
+│   ├── about.html
+│   └── layout.html
+
 ### 1. Introduction
 The AI Sentiment Analysis System is a web-based application that analyzes human emotions using both text and facial expressions. It combines Natural Language Processing (NLP) and Computer Vision techniques to detect sentiment and emotions.
 This project demonstrates how artificial intelligence can be implemented in a real-world web application using Python Flask.
